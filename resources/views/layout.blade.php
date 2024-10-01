@@ -37,12 +37,6 @@
                     <li class="nav-item">
                         <a class="nav-link" href="{{route('show-cadastro-jogos')}}">Cadastrar</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{route('lista-jogos')}}">Listar</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{route('altera-jogos')}}">alterar</a>    
-                    </li>
                 </ul>
             </div>
         </nav>
